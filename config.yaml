@@ -1,0 +1,7 @@
+vm_count: 2
+vm_settings:
+  cpu: 1
+  memory: 256
+  image: "alpine-linux.qcow2"
+network_settings:
+  subnet: "192.168.100.0/24"
